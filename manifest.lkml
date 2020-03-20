@@ -1,4 +1,4 @@
-application: extension-template {
-  label: "Extension Template"
-  url: "http://localhost:8080/bundle.js"
+application: my-great-extension {
+  label: "My Great Extension"
+  file: "bundle.js"
 }
